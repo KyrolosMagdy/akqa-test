@@ -1,0 +1,39 @@
+.video-card__main-wrapper{
+
+  display: flex;
+
+  .video-card__image-placeholder{
+    width: 50%;
+    height: auto;
+    padding-right: 12px;
+
+    @media (max-width: 40rem) {
+      max-height: 140px;
+    }
+  }
+
+  .video-card__content-wrapper{
+    width: 50%;
+
+    .video-card__title{
+      color: #00609C;
+      font-weight: bold;
+      font-size: 16px;
+
+      @media (max-width: 40rem) {
+        font-size: 12px;
+      }
+    }
+
+    .video-card__content{
+      color: black;
+      font-size: 12px;
+
+      @media (max-width:40rem) {
+        font-size: 11px;
+      }
+    }
+
+  }
+}
+

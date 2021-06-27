@@ -1,0 +1,46 @@
+.experts-insights__main-container{
+  background-color: #EEEEEE;
+  margin-top: 25px;
+
+  .experts-insights__title{
+    color: #00609C;
+    font-size: 26px;
+    font-weight: bold;
+    margin-bottom: 5px;
+    padding-top: 1rem;
+    padding-left: 4rem;
+
+    @media (max-width: 40rem) {
+      padding: 5px;
+      font-size: 16px;
+      
+    }
+  }
+
+  .experts-insights__main-content{
+    color: black;
+    font-size: 16px;
+    margin-top: 0;
+    margin-bottom: 30px;
+    padding-left: 4rem;
+
+    @media (max-width: 40rem) {
+      padding: 5px;
+      font-size: 12px; 
+    }
+  }
+
+  .experts-insights__videos-wrapper{
+    display: grid;
+    grid-template-columns: 45% 45%;
+    justify-content: center;
+    grid-template-rows: 1fr 1fr;
+    grid-gap: 2rem;
+    padding-bottom: 30px;
+
+    @media (max-width: 40rem) {
+      grid-template-columns: 95%;
+      
+    }
+  }
+}

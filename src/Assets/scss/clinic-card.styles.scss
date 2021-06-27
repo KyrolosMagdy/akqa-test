@@ -1,0 +1,42 @@
+.clinic-card__wrapper {
+  background-color: #EEEEEE;
+
+
+  .clinic-card__image{
+    width: 100%;
+    height: auto
+  }
+
+  .clinic-card__title{
+    color: #00609C;
+    font-size: 28px;
+    padding: 0 10%;
+    font-weight: bold;
+
+    @media (max-width: 40rem) {
+      font-size: 16px;
+    }
+  }
+
+  .clinic-card__main-content{
+    color: black;
+    padding: 0 10%;
+    font-size: 16px;
+
+    @media (max-width: 40rem) {
+      font-size: 12px;
+    }
+  }
+
+  .clinic-card__action-text{
+    color: #C017A2;
+    font-size: 16px;
+    padding: 12px 10%;
+    font-weight: bold;
+    cursor: pointer;
+
+    @media (max-width: 40rem) {
+      font-size: 12px;
+    }
+  }
+}

@@ -1,0 +1,24 @@
+.clinic-tools__cards-wrapper{
+  display: grid;
+  grid-template-columns: 35% 35%;
+  grid-column-gap: 5%;
+  justify-content: center;
+
+  @media (max-width: 40rem){
+    grid-template-columns: 95%;
+    grid-row-gap: 2%;
+  }
+
+}
+
+.clinic-tools__main-title{
+  color: #00609C;
+  font-weight: bold;
+  font-size: 26px;
+  padding: 12px 6rem;  
+
+  @media (max-width: 40rem){
+    font-size: 16px;
+    padding: 6px 1rem;
+  }
+}

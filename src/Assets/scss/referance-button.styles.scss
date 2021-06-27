@@ -1,0 +1,44 @@
+.referance-button__container{
+  background-color: #E6E7E8;
+  padding: 2rem 3rem;
+
+  @media(max-width: 40rem){
+    padding: 1rem 1.5rem;
+  }
+  .referance-button__main-wrapper{
+    background-color: transparent;
+    border: none;
+    color: #00609C;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    cursor: pointer;
+
+    @media (max-width:40rem) {
+      font-size: 16px;
+      
+    }
+
+    p{
+      margin: 0;
+      border: 2px solid #00609C;
+      padding: 10px;
+      border-radius: 50%;
+      font-size: 12px;
+      margin-right: 10px;
+      background-color: #00609C;
+      color: white;
+      font-weight: normal;
+
+      @media (max-width:40rem) {
+        padding: 8px;
+        font-size: 10px;
+      }
+    }
+  }
+}
+

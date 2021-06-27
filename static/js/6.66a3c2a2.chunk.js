@@ -1,0 +1,2 @@
+(this["webpackJsonpakqa-ui-test"]=this["webpackJsonpakqa-ui-test"]||[]).push([[6],{53:function(e,t,n){},55:function(e,t,n){"use strict";n.r(t);n(1),n(53);var a=n(0);t.default=function(){return Object(a.jsx)("div",{className:"referance-button__container",children:Object(a.jsxs)("button",{className:"referance-button__main-wrapper",children:[Object(a.jsx)("p",{children:" \u22c1 "}),"Referance"]})})}}}]);
+//# sourceMappingURL=6.66a3c2a2.chunk.js.map

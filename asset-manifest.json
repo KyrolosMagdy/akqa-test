@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/akqa-test/static/css/main.9d2ed07e.chunk.css",
-    "main.js": "/akqa-test/static/js/main.4592eef7.chunk.js",
-    "main.js.map": "/akqa-test/static/js/main.4592eef7.chunk.js.map",
+    "main.js": "/akqa-test/static/js/main.38130471.chunk.js",
+    "main.js.map": "/akqa-test/static/js/main.38130471.chunk.js.map",
     "runtime-main.js": "/akqa-test/static/js/runtime-main.4276f6e6.js",
     "runtime-main.js.map": "/akqa-test/static/js/runtime-main.4276f6e6.js.map",
     "static/js/2.5a567c24.chunk.js": "/akqa-test/static/js/2.5a567c24.chunk.js",
@@ -55,6 +55,6 @@
     "static/js/runtime-main.4276f6e6.js",
     "static/js/3.8ad42e0d.chunk.js",
     "static/css/main.9d2ed07e.chunk.css",
-    "static/js/main.4592eef7.chunk.js"
+    "static/js/main.38130471.chunk.js"
   ]
 }
